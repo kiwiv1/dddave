@@ -3,7 +3,6 @@ type: experiment
 description: still workssssss !!!!!
 labels:
   - l-label
-enabled: false
 flag: ios
 conditions:
   - version:
