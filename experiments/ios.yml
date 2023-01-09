@@ -7,6 +7,6 @@ flag: ios
 conditions:
   - version:
       operator: semver-eq
-      semver: '2.2'
+      semver: '2.25'
     value: true
 value: true
