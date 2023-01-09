@@ -8,5 +8,5 @@ conditions:
   - version:
       operator: semver-eq
       semver: '2.2'
-    value: false
+    value: true
 value: true
